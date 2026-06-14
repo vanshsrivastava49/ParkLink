@@ -1,4 +1,4 @@
-# ParkLink 🅿️
+# ParkLink
 ### IoT-Based Smart Parking and Reservation System with RFID-Driven Access Control and Vehicle-Class Enforcement
 
 > 📄 **Research paper accepted at 2 international conferences** — see [Publication](#-publication) section below.
